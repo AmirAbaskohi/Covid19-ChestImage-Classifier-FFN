@@ -5,3 +5,6 @@ We are going to train a model to classify `x-ray` images of chest to recognize t
 This is done using `Keras` in `Tenorflow`.
 
 Also we will examine some parameters and function on this model.
+
+## Dataset link
+https://drive.google.com/file/d/1WZTP-S-_8YVu5XFJ1cXCCQ65jNQGx32o/view
